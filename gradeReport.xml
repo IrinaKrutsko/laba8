@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<gradeReport id="123">
+  <date>01-12-2022</date>
+  <subject>PISM</subject>
+  <examiner>Fedosenko</examiner>
+
+  <gradeList>
+    <gradeRecord id="1">
+      <student>Krutsko</student>
+      <grade>5</grade>
+    </gradeRecord>
+    
+    <gradeRecord id="2">
+      <student>Shilov</student>
+      <grade>4</grade>
+    </gradeRecord>
+   
+    <gradeRecord id="3">
+      <student>Orlov</student>
+      <grade>2</grade>
+    </gradeRecord>
+
+    <gradeRecord id="4">
+      <student>Sergeev</student>
+      <grade>1</grade>
+    </gradeRecord>
+
+    <gradeRecord id="5">
+      <student>Volchok</student>
+      <grade>3</grade>
+    </gradeRecord>
+
+  </gradeList>
+</gradeReport>
